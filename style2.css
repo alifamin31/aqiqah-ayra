@@ -21,7 +21,7 @@ body{
   
   .contact-info{
     /* background-color: #e4d4d4; */
-    background-color: #E7EBEB
+    background-color: #ebb5ba
   }
 
   .contactname {
@@ -32,7 +32,6 @@ body{
   
   .contact-icon {
     background-image: url('phone.png');
-    v
   }
   .location-icon {
     background-image: url('location.png');
@@ -73,7 +72,7 @@ body{
   }
 
   .card-bg{
-    background-color: #E7EBEB;
+    background-color: #ebb5ba;
     border: #000000;
   }
 
